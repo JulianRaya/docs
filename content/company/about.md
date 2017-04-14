@@ -27,4 +27,4 @@ Our offices are in downtown Oakland, California.
 
 ## Contacting npm
 
-You can reach us for support or any other questions via our [contact form](/support) or at [npm@npmjs.com](mailto:npm@npmjs.com).
+You can reach us for support or any other questions via our [contact form](../support) or at [npm@npmjs.com](mailto:npm@npmjs.com).
